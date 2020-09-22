@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T06:19:12.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="yoWGfeNJsh2RwfLeXmZJ" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-22T06:19:28.708Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="78RpD8-NTJ_j_ZCCT2D1" version="13.7.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,9 +80,6 @@
             <mxPoint x="260" y="220" as="sourcePoint" />
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Y-JooA1RZPzK_qPSvJyh-20" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="200" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y-JooA1RZPzK_qPSvJyh-21" value="&lt;h1&gt;Google O-Auth setup&lt;br&gt;&lt;/h1&gt;&lt;div&gt;1. Create a Project.&lt;/div&gt;&lt;div&gt;2. Go to Credentials.&lt;/div&gt;&lt;div&gt;3. Select Create OAuth Client ID.&lt;/div&gt;&lt;div&gt;4. Setup the consent screen.&lt;/div&gt;&lt;div&gt;5. Enter Name of Application &amp;amp; put auth0.com as the authorized domain.&lt;/div&gt;&lt;div&gt;6. Save.&lt;/div&gt;&lt;div&gt;7. Select Web Application.&lt;/div&gt;&lt;div&gt;8. For JS origons put your application auth0 domain.&lt;/div&gt;&lt;div&gt;9. For URI redirect put your auth0 domain &amp;amp; add/login/callback.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="280" width="640" height="180" as="geometry" />
